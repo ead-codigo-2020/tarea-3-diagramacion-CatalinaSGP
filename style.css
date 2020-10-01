@@ -1,0 +1,30 @@
+body {
+    font-family: "Lato";
+    font-size: 30px;
+    background-color:#ffffff;  
+}
+.container{
+    display: inline-block;
+    text-align: center;
+    margin: 0px auto;
+    width: 100%;
+    float: left;
+    min-height: 500px;
+    padding: 0px ;
+}
+ 
+.center {
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(-20%, -20%);
+}
+h1 {
+    color: #ffffff
+}
+header img {
+    background-image: 
+      linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+}
