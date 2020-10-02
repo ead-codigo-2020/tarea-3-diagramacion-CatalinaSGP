@@ -16,7 +16,6 @@ body {
     position:absolute;
     top: 10px;
     left: 25%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffffff;
     font-weight: lighter;
     font-size: 13px;
@@ -25,11 +24,9 @@ body {
     position:absolute;
     top: 10px;
     left: 80%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffffff;
     font-weight: lighter;
     font-size: 13px;
-    font-style: italic;
 }
 .contenedor{
     position: relative;
@@ -132,7 +129,6 @@ h1 {
     font-size: 16px;
     color: #ffffff;
     font-weight:bold;
-
 }
 
 .article {
