@@ -12,10 +12,31 @@ body {
     height: 30px;
     background: #000000;
 }
-.caja {
-    list-style: none;
-    position: relative;
+.textoA{
+    position:absolute;
+    top: 10px;
+    left: 25%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-weight: lighter;
+    font-size: 13px;
 }
+.textoB{
+    position:absolute;
+    top: 10px;
+    left: 80%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-weight: lighter;
+    font-size: 13px;
+    font-style: italic;
+}
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
 .texto1 {
     position: absolute;
     top: 60px;
@@ -28,11 +49,14 @@ body {
     display: flex;
 }
 .box {
-    padding: 10px;
+    width: 90px;
+    height: 44px;
     border: 1px solid #40979797;
     font-size: 10px;
+    flex-grow: 3;
+    color: #ffffff;
     text-align: left;
-    flex-grow: 1;
+
 }
 .title {
     position: absolute;
@@ -59,7 +83,6 @@ h1 {
     position: absolute;
     top: 10px;
     left: 40%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffffff;
     font-weight: lighter;
 }
