@@ -1,3 +1,7 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
 body {
     font-family: "Lato";
     font-size: 25px;
@@ -9,14 +13,14 @@ body {
     background: #000000;
 }
 .caja {
+    list-style: none;
     position: relative;
-    display: inline-block;
 }
 .texto1 {
     position: absolute;
-    top: 10px;
-    left: 10%;
-    font-size: 22px;
+    top: 60px;
+    margin-left: 900px;
+    font-size: 12px;
     color: #ffffff;
 }
 
@@ -52,6 +56,11 @@ h1 {
     color: #44484c;
     font-size: 15px;
 }
+.rectangulo {
+    width: auto;
+    height: 200px;
+    background: #e4e6e8;
+}
 #content {
     float: left;
     width: calc(70% - 70px);
@@ -67,7 +76,7 @@ aside {
     background: #e4e6e8;
     padding: 15px;
 }
-nav {
+.footer {
     margin-left: 10%;
     color: #ffffff;
     line-height: 8mm;
