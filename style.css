@@ -56,11 +56,17 @@ h1 {
     color: #44484c;
     font-size: 15px;
 }
-.rectangulo {
+.rectangulo1 {
     width: auto;
-    height: 200px;
+    height: 800px;
     background: #e4e6e8;
 }
+.rectangulo2 {
+    width: auto;
+    height: 600px;
+    background: #ffffff;
+}
+
 #content {
     float: left;
     width: calc(70% - 70px);
