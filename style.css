@@ -9,12 +9,12 @@ body {
 }
 .cuadrado {
     width: auto;
-    height: 30px;
+    height: 40px;
     background: #000000;
 }
 .textoA{
     position:absolute;
-    top: 10px;
+    top: 13px;
     left: 23%;
     color: #ffffff;
     font-weight: lighter;
@@ -22,7 +22,7 @@ body {
 }
 .textoC{
     position:absolute;
-    top: 10px;
+    top: 13px;
     left: 32%;
     color: #ffffff;
     font-weight: lighter;
@@ -30,7 +30,7 @@ body {
 }
 .textoD{
     position:absolute;
-    top: 10px;
+    top: 13px;
     left: 42%;
     color: #ffffff;
     font-weight: lighter;
@@ -38,18 +38,17 @@ body {
 }
 .textoB{
     position:absolute;
-    top: 10px;
-    left: 80%;
+    top: 14px;
+    left: 79%;
     color: #ffffff;
     font-weight: lighter;
     font-size: 13px;
     font-style: italic;
-
 }
 .textoI{
     position:absolute;
     top: 10px;
-    left: 90%;
+    left: 89%;
     color: #ffffff;
     font-weight: lighter;
     font-size: 13px;
@@ -70,26 +69,26 @@ body {
 .textoE{
     position:absolute;
     top: 40px;
-    left: 100px;
+    left: 99px;
     color: #ffffff;
     font-weight: lighter;
-    font-size: 13px;
+    font-size: 14px;
 }
 .textoF{
     position:absolute;
     top: 40px;
-    left: 180px;
+    left: 178px;
     color: #ffffff;
     font-weight: lighter;
-    font-size: 13px;
+    font-size: 14px;
 }
 .textoG{
     position:absolute;
     top: 40px;
-    left: 260px;
+    left: 250px;
     color: #ffffff;
     font-weight: lighter;
-    font-size: 13px;
+    font-size: 14px;
 }
 .textoH{
     position:absolute;
@@ -97,7 +96,7 @@ body {
     left: 350px;
     color: #ffffff;
     font-weight: lighter;
-    font-size: 13px;
+    font-size: 14px;
 }
 .container {
     display: flex;
@@ -110,7 +109,6 @@ body {
     flex-grow: 3;
     color: #ffffff;
     text-align: left;
-
 }
 .TextoW {
     position: absolute;  
@@ -118,7 +116,7 @@ body {
     left: 13%;
     transform: translate(-25%, -25%);
     color: #ffffff;
-    font-size: 60px;
+    font-size: 70px;
     font-family: 'Roboto Condensed', sans-serif;
 }
 .textoZ {
@@ -128,10 +126,25 @@ body {
     transform: translate(-25%, -25%);
     color: #ffffff;
     font-weight: lighter;
-    font-size: 60px;
+    font-size: 70px;
     font-family: 'Roboto Condensed', sans-serif;
 }
-
+.textoX{
+    position:absolute;
+    top: 620px;
+    left: 80%;
+    color: #ffffff;
+    font-weight: lighter;
+    font-size: 14px;
+}
+.textoY{
+    position:absolute;
+    top: 620px;
+    left: 78%;
+    color: #ffffff;
+    font-weight: lighter;
+    font-size: 13px;
+}
 .inicio {
     position: absolute;
     top: 90%;
@@ -150,16 +163,17 @@ h1 {
 }
 .texto2{
     position: absolute;
-    top: 10px;
-    left: 40%;
+    top: 10%;
+    left: 43%;
     color: #ffffff;
     font-weight: lighter;
+    font-size: 30px;
 }
 .texto3{
     position: absolute;
-    top: 10%;
-    right:33%;
-    font-size: 16px;
+    top: 18%;
+    right:28%;
+    font-size: 22px;
     color: #ffffff;
     font-weight: lighter;
     text-align: center;
@@ -174,7 +188,7 @@ h1 {
     position: absolute;
     top: 100%;
     right:25%;
-    font-size: 16px;
+    font-size: 18px;
     color: #ffffff;
     font-weight: lighter;
 }
@@ -182,7 +196,7 @@ h1 {
     position: absolute;
     top: 100%;
     right:25%;
-    font-size: 16px;
+    font-size: 18px;
     color: #ffffff;
     font-weight: lighter;
 }
@@ -190,24 +204,41 @@ h1 {
     position: absolute;
     top: 100%;
     right:25%;
-    font-size: 16px;
+    font-size: 18px;
     color: #ffffff;
     font-weight: lighter;
 }
 .texto7{
     position: absolute;
-    top: 150%;
-    right:35%;
-    font-size: 16px;
+    top: 72%;
+    margin-left: 35%;
+    font-size: 22px;
     color: #ffffff;
-    font-weight:bold;
+    font-weight:normal;
+}
+.texto8{
+    position: absolute;
+    top: 80%;
+    margin-left: 31%;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight:normal;
+}
+.texto9{
+    position: absolute;
+    top: 80%;
+    margin-left: 51%;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight:normal;
 }
 
 .article {
-    margin-top: 50px;
+    margin-top: 40px;
     text-align: center;
     color: #44484c;
-    font-size: 15px;
+    font-size: 20px;
+    font-weight: lighter;
 }
 .rectangulo1 {
     width: auto;
@@ -242,16 +273,14 @@ aside {
     line-height: 8mm;
     font-size: 15px;
 }
-p1 {
-    font-size: 15px;
-    margin-left: 20px;
-    color: #44484c;
+.parrafo2 {
+    margin-left: 300px;
 }
-
 .container {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
+    font-family: "Roboto Condensed";
 }
 .facts-row {
     position: relative;
@@ -266,7 +295,7 @@ p1 {
 
 .facts-row .container {
     position: relative;
-    padding-top: 4rem;
+    padding-top: 2rem;
     padding-bottom: 4rem;
 }
 .facts-row__title {
@@ -290,14 +319,18 @@ p1 {
     grid-column: 1/2;
     grid-row: 1/-1;
     height: 70px;
-    background-color: aqua;
 }
 .fact__label {
     grid-column: 2/3;
 }
 .fact__label {
     text-transform: uppercase;
+    color: #44484c;
+    font-size: 24px;
 }
 .fact__number {
     font-size: 3rem;
+    color: #1abae9;
+    font-weight: lighter;
+    font-size: 60px;
 }
