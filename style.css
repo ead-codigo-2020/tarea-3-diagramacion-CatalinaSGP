@@ -58,7 +58,6 @@ body {
     display: inline-block;
     text-align: center;
 }
-
 .texto1 {
     position: absolute;
     top: 30px;
@@ -248,7 +247,6 @@ h1 {
     color: #ffffff;
     font-weight:normal;
 }
-
 .article {
     margin-top: 40px;
     text-align: center;
@@ -256,18 +254,16 @@ h1 {
     font-size: 20px;
     font-weight: lighter;
 }
-.rectangulo1 {
+.rectangulo3 {
     width: auto;
-    height: 800px;
+    height: 600px;
     background: #e4e6e8;
 }
-
 .rectangulo2 {
     width: auto;
     height: 600px;
     background: #ffffff;
 }
-
 #content {
     float: left;
     width: calc(70% - 70px);
@@ -275,7 +271,6 @@ h1 {
     background: #13181d;
     padding: 35px ;
 }
-
 aside {
     float: left;
     width: calc(30% - 30px);
