@@ -67,60 +67,75 @@ body {
 }
 .cuadrado-2 {
     position: relative;
-    top: 400px;
-    width: 75px;
-    height: 100px;
-    left: 80px;
-    border: 1px solid #d8d8d8;
+    top: 429px;
+    width: 100px;
+    height: 98px;
+    left: 75px;
+    border: 1px solid #40979797;
 }
 .cuadrado-3 {
     position: relative;
-    top: 529px;
-    width: 75px;
-    height: 100px;
-    background: #1fbbeb;
+    top: 329px;
+    width: 105px;
+    height: 98px;
+    left: 176px;
+    border: 1px solid #40979797;
 }
 .cuadrado-4 {
     position: relative;
-    top: 529px;
-    width: 75px;
-    height: 100px;
-    background: #1fbbeb;
+    top: 229px;
+    width: 94px;
+    height: 98px;
+    left: 282px;
+    border: 1px solid #40979797;
 }
 .cuadrado-5 {
     position: relative;
-    top: 529px;
-    width: 75px;
-    height: 100px;
-    background: #1fbbeb;
+    top: 129px;
+    width: 160px;
+    height: 98px;
+    left: 377px;
+    border: 1px solid #40979797;
 }
 .cuadrado-6 {
     position: relative;
-    top: 529px;
-    width: 75px;
-    height: 100px;
-    background: #1fbbeb;
+    top: 29px;
+    width: 120px;
+    height: 98px;
+    left: 538px;
+    border: 1px solid #40979797;
 }
 .cuadrado-7 {
     position: relative;
-    top: 529px;
-    width: 75px;
-    height: 100px;
-    background: #1fbbeb;
+    top: -71px;
+    width: 125px;
+    height: 98px;
+    left: 659px;
+    border: 1px solid #40979797;
 }
 .cuadrado-8 {
     position: relative;
-    top: 529px;
-    width: 75px;
-    height: 100px;
-    background: #1fbbeb;
+    top: -171px;
+    width: 110px;
+    height: 98px;
+    left: 785px;
+    border: 1px solid #40979797;
 }
 .cuadrado-9 {
     position: relative;
-    top: 529px;
-    width: 75px;
-    height: 100px;
-    background: #1fbbeb;
+    top: -271px;
+    width: 120px;
+    height: 98px;
+    left: 896px;
+    border: 1px solid #40979797;
+}
+.cuadrado-10 {
+    position: relative;
+    top: -371px;
+    width: 94px;
+    height: 98px;
+    left: 1017px;
+    border: 1px solid #40979797;
 }
 .texto1 {
     position: absolute;
@@ -187,7 +202,7 @@ body {
 .texto15{
     position:absolute;
     top: 670px;
-    left: 200px;
+    left: 190px;
     color: #ffffff;
     font-size: 14px;
     text-align: left;
@@ -195,14 +210,14 @@ body {
 .texto16{
     position:absolute;
     top: 670px;
-    left: 300px;
+    left: 290px;
     color: #ffffff;
     font-size: 14px;
     text-align: left;
 }
 .texto17{
     position:absolute;
-    top: 650px;
+    top: 670px;
     left: 400px;
     color: #ffffff;
     font-size: 14px;
@@ -210,31 +225,31 @@ body {
 }
 .texto18{
     position:absolute;
-    top: 650px;
-    left: 500px;
+    top: 670px;
+    left: 497px;
     color: #ffffff;
     font-size: 14px;
     text-align: left;
 }
 .texto19{
     position:absolute;
-    top: 650px;
-    left: 650px;
+    top: 680px;
+    left: 654px;
     color: #ffffff;
     font-size: 14px;
     text-align: left;
 }
 .texto20{
     position:absolute;
-    top: 650px;
-    left: 770px;
+    top: 670px;
+    left: 777px;
     color: #ffffff;
     font-size: 14px;
     text-align: left;
 }
 .texto21{
     position:absolute;
-    top: 650px;
+    top: 670px;
     left: 900px;
     color: #ffffff;
     font-size: 14px;
@@ -242,16 +257,16 @@ body {
 }
 .texto22{
     position:absolute;
-    top: 650px;
-    left: 1020px;
+    top: 680px;
+    left: 1010px;
     color: #ffffff;
     font-size: 14px;
     text-align: left;
 }
 .texto23{
     position:absolute;
-    top: 650px;
-    left: 1146px;
+    top: 670px;
+    left: 1135px;
     color: #ffffff;
     font-size: 14px;
     text-align: left;
@@ -290,7 +305,7 @@ body {
 .textoX{
     position:absolute;
     top: 590px;
-    left: 80%;
+    left: 1088px;
     color: #ffffff;
     font-weight: lighter;
     font-size: 14px;
@@ -298,7 +313,7 @@ body {
 .textoY{
     position:absolute;
     top: 590px;
-    left: 78%;
+    left: 1060px;
     color: #ffffff;
     font-weight: lighter;
     font-size: 13px;
