@@ -701,3 +701,83 @@ h4 {
     margin-top: 30px;
     margin-left: 20px;
 }
+.texto56 {
+    position: absolute; 
+    top: 130px;
+    left: 520px;
+    font-size: 24px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.cuadrado-11 {
+    position: relative;
+    top: -152px;
+    width: 760px;
+    height: 76px;
+    left: 520px;
+    border: 1px solid #e4e6e8;
+}
+.cuadrado-12 {
+    position: relative;
+    top: -153px;
+    width: 760px;
+    height: 76px;
+    left: 520px;
+    border: 1px solid #e4e6e8;
+}
+.cuadrado-13 {
+    position: relative;
+    top: -154px;
+    width: 760px;
+    height: 76px;
+    left: 520px;
+    border: 1px solid #e4e6e8;
+}
+.texto57 {
+    position: absolute; 
+    top: 197px;
+    left: 540px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.texto58 {
+    position: absolute; 
+    top: 197px;
+    left: 740px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.texto59 {
+    position: absolute; 
+    top: 270px;
+    left: 540px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.texto60 {
+    position: absolute; 
+    top: 270px;
+    left: 740px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.texto61 {
+    position: absolute; 
+    top: 346px;
+    left: 540px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.texto62 {
+    position: absolute; 
+    top: 346px;
+    left: 740px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+}
