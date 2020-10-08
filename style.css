@@ -412,10 +412,30 @@ h1 {
     font-size: 20px;
     font-weight: lighter;
 }
+.texto31 {
+    position: absolute; 
+    top: 80px;
+    left: 117px;
+    font-size: 30px;
+    color:  #44484c;
+}
 .rectangulo3 {
     width: auto;
     height: 600px;
     background: #e4e6e8;
+}
+.texto30 {
+    position: absolute; 
+    top: 80px;
+    left: 117px;
+    font-size: 30px;
+    color:  #44484c;
+}
+.imagen-barco {
+    position: absolute;
+    top: 50px;
+    margin-left: 50px;
+    background-image: url(barcos.jpg);
 }
 .rectangulo2 {
     width: auto;
