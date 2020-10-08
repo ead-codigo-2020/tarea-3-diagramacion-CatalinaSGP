@@ -392,18 +392,34 @@ h1 {
 .texto8{
     position: absolute;
     top: 80%;
-    margin-left: 31%;
+    margin-left: 28%;
     font-size: 15px;
     color: #ffffff;
     font-weight:normal;
 }
+.texto90{
+    position: absolute;
+    top: 78%;
+    margin-left: 27%;
+    font-size: 15px;
+    width: 260px;
+    height: 50px;
+}
 .texto9{
     position: absolute;
     top: 80%;
-    margin-left: 51%;
+    margin-left: 52%;
     font-size: 15px;
     color: #ffffff;
     font-weight:normal;
+}
+.texto91{
+    position: absolute;
+    top: 78%;
+    margin-left: 50%;
+    font-size: 15px;
+    width: 260px;
+    height: 50px;
 }
 .article {
     margin-top: 40px;
@@ -415,32 +431,188 @@ h1 {
 .texto31 {
     position: absolute; 
     top: 80px;
-    left: 117px;
+    left: 120px;
+    font-size: 30px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.texto40 {
+    position: absolute; 
+    top: 600px;
+    left: 120px;
+    font-size: 30px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.texto41 {
+    position: absolute; 
+    top: 600px;
+    left: 700px;
+    font-size: 30px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.texto42 {
+    position: absolute; 
+    top: 615px;
+    left: 515px;
+    font-size: 15px;
+    color: #1abae9;
+    font-weight: bold;
+}
+.texto43 {
+    position: absolute; 
+    top: 603px;
+    left: 635px;
     font-size: 30px;
     color:  #44484c;
 }
-.rectangulo3 {
-    width: auto;
-    height: 600px;
-    background: #e4e6e8;
+.texto32 {
+    position: absolute; 
+    top: 96px;
+    left: 40px;
+    font-size: 15px;
+    color:  #44484c;
 }
+.texto33 {
+    position: absolute; 
+    top: 121px;
+    left: 40px;
+    font-size: 26px;
+    color:  #44484c;
+}
+.texto34 {
+    position: absolute; 
+    top: 148px;
+    left: 40px;
+    font-size: 26px;
+    color:  #44484c;
+}
+.texto35 {
+    position: absolute; 
+    top: 178px;
+    left: 40px;
+    font-size: 26px;
+    color:  #44484c;
+}
+.texto36 {
+    position: absolute; 
+    top: 226px;
+    left: 40px;
+    font-size: 18px;
+    color:  #44484c;
+}
+.texto37 {
+    position: absolute; 
+    top: 246px;
+    left: 40px;
+    font-size: 18px;
+    color:  #44484c;
+}
+.texto38 {
+    position: absolute; 
+    top: 290px;
+    left: 40px;
+    font-size: 15px;
+    color: #1abae9;
+    font-weight: bold;
+}
+.texto39 {
+    position: absolute; 
+    top: 290px;
+    left: 173px;
+    font-size: 15px;
+    color: #1abae9;
+}
+
+.texto47 {
+    position: absolute; 
+    top: 20px;
+    left: 20px;
+    font-size: 14px;
+    color:  #44484c;
+}
+.texto48 {
+    position: absolute; 
+    top: 50px;
+    left: 20px;
+    font-size: 16px;
+    color:  #44484c;
+}
+.texto49 {
+    position: absolute; 
+    top: 20px;
+    left: 20px;
+    font-size: 14px;
+    color:  #44484c;
+}
+.texto50 {
+    position: absolute; 
+    top: 50px;
+    left: 20px;
+    font-size: 16px;
+    color:  #44484c;
+}
+.texto51 {
+    position: absolute; 
+    top: 237px;
+    left: 85px;
+    font-size: 18px;
+    color:  #44484c;
+}
+.texto52 {
+    position: absolute; 
+    top: 233px;
+    left: 250px;
+}
+.texto53 {
+    position: absolute; 
+    top: 236px;
+    left: 275px;
+    font-size: 16px;
+    color: #1abae9;
+}
+.texto54 {
+    position: absolute; 
+    top: 231px;
+    left: 410px;
+}
+.texto55 {
+    position: absolute; 
+    top: 236px;
+    left: 433px;
+    font-size: 16px;
+    color: #1abae9;
+}
+
 .texto30 {
     position: absolute; 
     top: 80px;
-    left: 117px;
+    left: 120px;
     font-size: 30px;
     color:  #44484c;
+    font-weight: lighter;
 }
-.imagen-barco {
-    position: absolute;
-    top: 50px;
-    margin-left: 50px;
-    background-image: url(barcos.jpg);
+.texto45 {
+    position: absolute; 
+    top: 20px;
+    left: 20px;
+    font-size: 16px;
+    color: #1abae9;
 }
-.rectangulo2 {
-    width: auto;
-    height: 600px;
-    background: #ffffff;
+.texto46 {
+    position: absolute; 
+    top: 20px;
+    left: 50px;
+    font-size: 16px;
+    color: #1abae9;
+}
+.texto44 {
+    position: absolute; 
+    top: 48px;
+    left: 20px;
+    font-size: 13px;
+    color:  #13181d;
 }
 #content {
     float: left;
