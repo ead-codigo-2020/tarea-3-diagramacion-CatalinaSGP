@@ -2,11 +2,64 @@
     margin: 0%;
     padding: 0%;
 }
+#header #top {
+    position:relative; max-width:1074px; min-width:320px; height:115px; margin:0 auto;
+}
+
+#header ul.menu {
+    position:relative; max-width:1008px; min-width:320px; height:95px;
+}
+
+#aux-main{
+    position:relative; max-width:1008px; min-width:320px; margin:0 auto;
+}
+
+#footer ul {
+    max-width:768px; min-width:320px; margin:10px auto; 
+}
 body {
     font-family: "Roboto Condensed";
     font-size: 25px;
     background-color:#ffffff; 
 }
+.home{
+    position: relative;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.page {
+    display: grid;
+  }
+  .page::after {
+    content: 'Visualización móviles';
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background: rgba( 255, 255, 255, 0.75 );
+    display: inline-block;
+    padding: 25px;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 1px solid rgba( 0, 0, 0, 0.5 );
+    border-radius: 15px;
+  }
+  .page > * {
+    min-width: 20px;
+    min-height: 20px;
+  }
+  /**
+   * Estas reglas aplican en tablets o pantallas más anchas
+   */
+  @media ( min-width: 768px ) {
+.page {
+      max-width: 1140px;
+      margin: 0 auto;
+}
+.page::after {
+      content: 'Visualización escritorio'
+}  
 .cuadrado {
     width: auto;
     height: 40px;
@@ -52,11 +105,6 @@ body {
     color: #ffffff;
     font-weight: lighter;
     font-size: 13px;
-}
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
 }
 .cuadrado-1 {
     position: relative;
@@ -917,7 +965,7 @@ h4 {
 .texto83 {
     position: absolute; 
     top: 0px;
-    left: 968px;
+    left: 970px;
 }
 .texto84 {
     position: absolute; 
@@ -957,3 +1005,4 @@ h4 {
     color: #e4e6e8;
     line-height: 1cm;
 }
+  }
