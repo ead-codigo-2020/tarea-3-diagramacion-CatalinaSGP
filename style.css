@@ -614,29 +614,6 @@ h1 {
     font-size: 13px;
     color:  #13181d;
 }
-#content {
-    float: left;
-    width: calc(70% - 70px);
-    min-height: 410px;
-    background: #13181d;
-    padding: 35px ;
-}
-aside {
-    float: left;
-    width: calc(30% - 30px);
-    min-height: 450px;
-    background: #e4e6e8;
-    padding: 15px;
-}
-.footer {
-    margin-left: 10%;
-    color: #ffffff;
-    line-height: 8mm;
-    font-size: 15px;
-}
-.parrafo2 {
-    margin-left: 300px;
-}
 .container {
     max-width: 1200px;
     margin-left: auto;
@@ -783,9 +760,200 @@ h4 {
 }
 .texto63 {
     position: absolute; 
+    top: 197px;
+    left: 1160px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+}
+.texto64 {
+    position: absolute; 
+    top: 270px;
+    left: 1160px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+}
+.texto65 {
+    position: absolute; 
     top: 346px;
     left: 1160px;
     font-size: 12px;
     color: #1abae9;
     line-height: 6mm;
+}
+.texto66 {
+    position: absolute; 
+    top: 200px;
+    left: 1140px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+}
+.texto67 {
+    position: absolute; 
+    top: 222px;
+    left: 1140px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+}
+.texto68 {
+    position: absolute; 
+    top: 272px;
+    left: 1140px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+}
+.texto69 {
+    position: absolute; 
+    top: 294px;
+    left: 1140px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+}
+.texto70 {
+    position: absolute; 
+    top: 349px;
+    left: 1140px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+}
+.texto71 {
+    position: absolute; 
+    top: 371px;
+    left: 1140px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+}
+.texto72 {
+    position: absolute; 
+    top: 140px;
+    left: 1215px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+    font-weight: bold;
+}
+.texto73 {
+    position: absolute; 
+    top: 142px;
+    left: 1270px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+}
+.texto74 {
+    position: absolute; 
+    top: 60px;
+    left: 100px;
+}
+.texto75 {
+    position: absolute; 
+    top: 186px;
+    left: 100px;
+    font-size: 15px;
+    color: #ffffff;
+    line-height: 7mm;
+}
+.texto76 {
+    position: absolute; 
+    top: 60px;
+    left: 400px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1cm;
+}
+.texto77 {
+    position: absolute; 
+    top: 60px;
+    left: 720px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1cm;
+}
+.texto78 {
+    position: absolute; 
+    top: 250px;
+    left: 400px;
+}
+.texto79 {
+    position: absolute; 
+    top: 280px;
+    left: 400px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1cm;
+}
+.texto80 {
+    position: absolute; 
+    top: 290px;
+    left: 582px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 6mm;
+}
+.texto82 {
+    position: absolute; 
+    top: 350px;
+    left: 582px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 6mm;
+}
+.texto81 {
+    position: absolute; 
+    top: 280px;
+    left: 800px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1cm;
+}
+
+.texto83 {
+    position: absolute; 
+    top: 0px;
+    left: 968px;
+}
+.texto84 {
+    position: absolute; 
+    top: 60px;
+    left: 990px;
+    font-size: 16px;
+    color: #44484c;
+}
+.texto85 {
+    position: absolute; 
+    top: 100px;
+    left: 1050px;
+}
+.texto86 {
+    position: absolute; 
+    top: 242px;
+    left: 1000px;
+}
+.texto87 {
+    position: absolute; 
+    top: 311px;
+    left: 1000px;
+}
+.texto88 {
+    position: absolute; 
+    top: 330px;
+    left: 130px;
+    font-size: 26px;
+    color: #ffffff;
+    line-height: 1cm;
+}
+.texto89 {
+    position: absolute; 
+    top: 360px;
+    left: 130px;
+    font-size: 15px;
+    color: #e4e6e8;
+    line-height: 1cm;
 }
