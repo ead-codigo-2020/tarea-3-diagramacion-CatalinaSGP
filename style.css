@@ -230,6 +230,7 @@ body {
     left: 120px;
     color: #ffffff;
     font-size: 14px;
+    text-transform: uppercase;
 }
 .text15{
     position:absolute;
@@ -238,6 +239,7 @@ body {
     color: #ffffff;
     font-size: 14px;
     text-align: left;
+    text-transform: uppercase;
 }
 .text16{
     position:absolute;
@@ -246,6 +248,7 @@ body {
     color: #ffffff;
     font-size: 14px;
     text-align: left;
+    text-transform: uppercase;
 }
 .text17{
     position:absolute;
@@ -254,6 +257,7 @@ body {
     color: #ffffff;
     font-size: 14px;
     text-align: left;
+    text-transform: uppercase;
 }
 .text18{
     position:absolute;
@@ -262,6 +266,7 @@ body {
     color: #ffffff;
     font-size: 14px;
     text-align: left;
+    text-transform: uppercase;
 }
 .text19{
     position:absolute;
@@ -270,6 +275,7 @@ body {
     color: #ffffff;
     font-size: 14px;
     text-align: left;
+    text-transform: uppercase;
 }
 .text20{
     position:absolute;
@@ -278,6 +284,7 @@ body {
     color: #ffffff;
     font-size: 14px;
     text-align: left;
+    text-transform: uppercase;
 }
 .text21{
     position:absolute;
@@ -286,6 +293,7 @@ body {
     color: #ffffff;
     font-size: 14px;
     text-align: left;
+    text-transform: uppercase;
 }
 .text22{
     position:absolute;
@@ -294,6 +302,7 @@ body {
     color: #ffffff;
     font-size: 14px;
     text-align: left;
+    text-transform: uppercase;
 }
 .text23{
     position:absolute;
@@ -302,6 +311,7 @@ body {
     color: #ffffff;
     font-size: 14px;
     text-align: left;
+    text-transform: uppercase;
 }
 /* Navegación Principal */
 
@@ -526,207 +536,296 @@ body {
 }
 /* Fin tercera sección de navegación */
 
-.texto31 {
+.text31 {
     position: absolute; 
     top: 80px;
     left: 120px;
     font-size: 30px;
     color:  #44484c;
     font-weight: lighter;
+    text-transform: uppercase;
 }
-.texto40 {
-    position: absolute; 
-    top: 600px;
-    left: 120px;
-    font-size: 30px;
-    color:  #44484c;
-    font-weight: lighter;
-}
-.texto41 {
-    position: absolute; 
-    top: 600px;
-    left: 700px;
-    font-size: 30px;
-    color:  #44484c;
-    font-weight: lighter;
-}
-.texto42 {
-    position: absolute; 
-    top: 615px;
-    left: 515px;
-    font-size: 15px;
-    color: #1abae9;
-    font-weight: bold;
-}
-.texto43 {
-    position: absolute; 
-    top: 603px;
-    left: 635px;
-    font-size: 30px;
-    color:  #44484c;
-}
-.texto32 {
+.text32 {
     position: absolute; 
     top: 96px;
     left: 40px;
     font-size: 15px;
     color:  #44484c;
+    text-transform: uppercase;
 }
-.texto33 {
+.text33 {
     position: absolute; 
     top: 121px;
     left: 40px;
     font-size: 26px;
     color:  #44484c;
 }
-.texto34 {
+.text34 {
     position: absolute; 
     top: 148px;
     left: 40px;
     font-size: 26px;
     color:  #44484c;
 }
-.texto35 {
+.text35 {
     position: absolute; 
     top: 178px;
     left: 40px;
     font-size: 26px;
     color:  #44484c;
 }
-.texto36 {
+.text36 {
     position: absolute; 
     top: 226px;
     left: 40px;
     font-size: 18px;
     color:  #44484c;
 }
-.texto37 {
+.text37 {
     position: absolute; 
     top: 246px;
     left: 40px;
     font-size: 18px;
     color:  #44484c;
 }
-.texto38 {
+.text38 {
     position: absolute; 
     top: 290px;
     left: 40px;
     font-size: 15px;
     color: #1abae9;
     font-weight: bold;
+    text-transform: uppercase;
 }
-.texto39 {
+.text39 {
     position: absolute; 
     top: 290px;
     left: 173px;
     font-size: 15px;
     color: #1abae9;
 }
+/* Fin sección destacamos */
 
-.texto47 {
+.text40 {
+    position: absolute; 
+    top: 600px;
+    left: 120px;
+    font-size: 30px;
+    color:  #44484c;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+.text42 {
+    position: absolute; 
+    top: 615px;
+    left: 515px;
+    font-size: 15px;
+    color: #1abae9;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.text43 {
+    position: absolute; 
+    top: 603px;
+    left: 635px;
+    font-size: 30px;
+}
+.text47 {
     position: absolute; 
     top: 20px;
     left: 20px;
     font-size: 14px;
     color:  #44484c;
+    text-transform: uppercase;
 }
-.texto48 {
+.text48 {
     position: absolute; 
     top: 50px;
     left: 20px;
     font-size: 16px;
     color:  #44484c;
 }
-.texto49 {
+.text49 {
     position: absolute; 
     top: 20px;
     left: 20px;
     font-size: 14px;
     color:  #44484c;
+    text-transform: uppercase;
 }
-.texto50 {
+.text50 {
     position: absolute; 
     top: 50px;
     left: 20px;
     font-size: 16px;
     color:  #44484c;
+    text-transform: uppercase;
 }
-.texto51 {
+/* Fin sección prensa */
+
+.text41 {
+    position: absolute; 
+    top: 600px;
+    left: 700px;
+    font-size: 30px;
+    color:  #44484c;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+.text51 {
     position: absolute; 
     top: 237px;
     left: 85px;
     font-size: 18px;
     color:  #44484c;
 }
-.texto52 {
+.text52 {
     position: absolute; 
     top: 233px;
     left: 250px;
 }
-.texto53 {
+.text53 {
     position: absolute; 
     top: 236px;
     left: 275px;
     font-size: 16px;
     color: #1abae9;
 }
-.texto54 {
+.text54 {
     position: absolute; 
     top: 231px;
     left: 410px;
 }
-.texto55 {
+.text55 {
     position: absolute; 
     top: 236px;
     left: 433px;
     font-size: 16px;
     color: #1abae9;
 }
-
-.texto30 {
-    position: absolute; 
-    top: 80px;
-    left: 120px;
-    font-size: 30px;
-    color:  #44484c;
-    font-weight: lighter;
-}
-.texto45 {
+.text45 {
     position: absolute; 
     top: 20px;
     left: 20px;
     font-size: 16px;
-    color: #1abae9;
 }
-.texto46 {
+.text46 {
     position: absolute; 
     top: 20px;
     left: 50px;
     font-size: 16px;
     color: #1abae9;
 }
-.texto44 {
+.text44 {
     position: absolute; 
     top: 48px;
     left: 20px;
     font-size: 13px;
     color:  #13181d;
 }
-h4 {
-    color: #44484c;
-    font-size: 16px;
-    margin-top: 30px;
-    margin-left: 20px;
+/* Fin sección redes sociales */
+
+/* Fin cuarta sección de navegación */
+
+.text30 {
+    position: absolute; 
+    top: 80px;
+    left: 120px;
+    font-size: 30px;
+    color:  #44484c;
+    font-weight: lighter;
+    text-transform: uppercase;
 }
-.texto56 {
+.text56 {
     position: absolute; 
     top: 130px;
     left: 520px;
     font-size: 24px;
     color:  #44484c;
     font-weight: lighter;
+    text-transform: uppercase;
 }
-.cuadrado-11 {
+.text57 {
+    position: absolute; 
+    top: 197px;
+    left: 540px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+.text58 {
+    position: absolute; 
+    top: 197px;
+    left: 740px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.text59 {
+    position: absolute; 
+    top: 270px;
+    left: 540px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+.text60 {
+    position: absolute; 
+    top: 270px;
+    left: 740px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.text61 {
+    position: absolute; 
+    top: 346px;
+    left: 540px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+.text62 {
+    position: absolute; 
+    top: 346px;
+    left: 740px;
+    font-size: 14px;
+    color:  #44484c;
+    font-weight: lighter;
+}
+.text63 {
+    position: absolute; 
+    top: 197px;
+    left: 1160px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+    text-transform: uppercase;
+}
+.text64 {
+    position: absolute; 
+    top: 270px;
+    left: 1160px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+    text-transform: uppercase;
+}
+.text65 {
+    position: absolute; 
+    top: 346px;
+    left: 1160px;
+    font-size: 12px;
+    color: #1abae9;
+    line-height: 6mm;
+    text-transform: uppercase;
+}
+/* Fin texto de sección licitaciones*/
+
+.square-11 {
     position: relative;
     top: -152px;
     width: 760px;
@@ -734,7 +833,7 @@ h4 {
     left: 520px;
     border: 1px solid #e4e6e8;
 }
-.cuadrado-12 {
+.square-12 {
     position: relative;
     top: -153px;
     width: 760px;
@@ -742,7 +841,7 @@ h4 {
     left: 520px;
     border: 1px solid #e4e6e8;
 }
-.cuadrado-13 {
+.square-13 {
     position: relative;
     top: -154px;
     width: 760px;
@@ -750,127 +849,7 @@ h4 {
     left: 520px;
     border: 1px solid #e4e6e8;
 }
-.texto57 {
-    position: absolute; 
-    top: 197px;
-    left: 540px;
-    font-size: 14px;
-    color:  #44484c;
-    font-weight: lighter;
-}
-.texto58 {
-    position: absolute; 
-    top: 197px;
-    left: 740px;
-    font-size: 14px;
-    color:  #44484c;
-    font-weight: lighter;
-}
-.texto59 {
-    position: absolute; 
-    top: 270px;
-    left: 540px;
-    font-size: 14px;
-    color:  #44484c;
-    font-weight: lighter;
-}
-.texto60 {
-    position: absolute; 
-    top: 270px;
-    left: 740px;
-    font-size: 14px;
-    color:  #44484c;
-    font-weight: lighter;
-}
-.texto61 {
-    position: absolute; 
-    top: 346px;
-    left: 540px;
-    font-size: 14px;
-    color:  #44484c;
-    font-weight: lighter;
-}
-.texto62 {
-    position: absolute; 
-    top: 346px;
-    left: 740px;
-    font-size: 14px;
-    color:  #44484c;
-    font-weight: lighter;
-}
-.texto63 {
-    position: absolute; 
-    top: 197px;
-    left: 1160px;
-    font-size: 12px;
-    color: #1abae9;
-    line-height: 6mm;
-}
-.texto64 {
-    position: absolute; 
-    top: 270px;
-    left: 1160px;
-    font-size: 12px;
-    color: #1abae9;
-    line-height: 6mm;
-}
-.texto65 {
-    position: absolute; 
-    top: 346px;
-    left: 1160px;
-    font-size: 12px;
-    color: #1abae9;
-    line-height: 6mm;
-}
-.texto66 {
-    position: absolute; 
-    top: 200px;
-    left: 1140px;
-    font-size: 12px;
-    color: #1abae9;
-    line-height: 6mm;
-}
-.texto67 {
-    position: absolute; 
-    top: 222px;
-    left: 1140px;
-    font-size: 12px;
-    color: #1abae9;
-    line-height: 6mm;
-}
-.texto68 {
-    position: absolute; 
-    top: 272px;
-    left: 1140px;
-    font-size: 12px;
-    color: #1abae9;
-    line-height: 6mm;
-}
-.texto69 {
-    position: absolute; 
-    top: 294px;
-    left: 1140px;
-    font-size: 12px;
-    color: #1abae9;
-    line-height: 6mm;
-}
-.texto70 {
-    position: absolute; 
-    top: 349px;
-    left: 1140px;
-    font-size: 12px;
-    color: #1abae9;
-    line-height: 6mm;
-}
-.texto71 {
-    position: absolute; 
-    top: 371px;
-    left: 1140px;
-    font-size: 12px;
-    color: #1abae9;
-    line-height: 6mm;
-}
-.texto72 {
+.text72 {
     position: absolute; 
     top: 140px;
     left: 1215px;
@@ -878,110 +857,53 @@ h4 {
     color: #1abae9;
     line-height: 6mm;
     font-weight: bold;
+    text-transform: uppercase;
 }
-.texto73 {
+.text66 {
+    position: absolute; 
+    top: 200px;
+    left: 1140px;
+    font-size: 12px;
+}
+.text67 {
+    position: absolute; 
+    top: 222px;
+    left: 1140px;
+    font-size: 12px;
+}
+.text68 {
+    position: absolute; 
+    top: 272px;
+    left: 1140px;
+    font-size: 12px;
+}
+.text69 {
+    position: absolute; 
+    top: 294px;
+    left: 1140px;
+    font-size: 12px;
+}
+.text70 {
+    position: absolute; 
+    top: 349px;
+    left: 1140px;
+    font-size: 12px;
+}
+.text71 {
+    position: absolute; 
+    top: 371px;
+    left: 1140px;
+    font-size: 12px;
+}
+.text73 {
     position: absolute; 
     top: 142px;
     left: 1270px;
     font-size: 12px;
-    color: #1abae9;
-    line-height: 6mm;
 }
-.texto74 {
-    position: absolute; 
-    top: 60px;
-    left: 100px;
-}
-.texto75 {
-    position: absolute; 
-    top: 186px;
-    left: 100px;
-    font-size: 15px;
-    color: #ffffff;
-    line-height: 7mm;
-}
-.texto76 {
-    position: absolute; 
-    top: 60px;
-    left: 400px;
-    font-size: 16px;
-    color: #ffffff;
-    line-height: 1cm;
-}
-.texto77 {
-    position: absolute; 
-    top: 60px;
-    left: 720px;
-    font-size: 16px;
-    color: #ffffff;
-    line-height: 1cm;
-}
-.texto78 {
-    position: absolute; 
-    top: 250px;
-    left: 400px;
-}
-.texto79 {
-    position: absolute; 
-    top: 280px;
-    left: 400px;
-    font-size: 16px;
-    color: #ffffff;
-    line-height: 1cm;
-}
-.texto80 {
-    position: absolute; 
-    top: 290px;
-    left: 582px;
-    font-size: 16px;
-    color: #ffffff;
-    line-height: 6mm;
-}
-.texto82 {
-    position: absolute; 
-    top: 350px;
-    left: 582px;
-    font-size: 16px;
-    color: #ffffff;
-    line-height: 6mm;
-}
-.texto81 {
-    position: absolute; 
-    top: 280px;
-    left: 800px;
-    font-size: 16px;
-    color: #ffffff;
-    line-height: 1cm;
-}
+/* Fin iconos de sección licitaciones*/
 
-.texto83 {
-    position: absolute; 
-    top: 0px;
-    left: 970px;
-}
-.texto84 {
-    position: absolute; 
-    top: 60px;
-    left: 990px;
-    font-size: 16px;
-    color: #44484c;
-}
-.texto85 {
-    position: absolute; 
-    top: 100px;
-    left: 1050px;
-}
-.texto86 {
-    position: absolute; 
-    top: 242px;
-    left: 1000px;
-}
-.texto87 {
-    position: absolute; 
-    top: 311px;
-    left: 1000px;
-}
-.texto88 {
+.text88 {
     position: absolute; 
     top: 330px;
     left: 130px;
@@ -989,7 +911,7 @@ h4 {
     color: #ffffff;
     line-height: 1cm;
 }
-.texto89 {
+.text89 {
     position: absolute; 
     top: 360px;
     left: 130px;
@@ -997,4 +919,104 @@ h4 {
     color: #e4e6e8;
     line-height: 1cm;
 }
+/* Fin sección transparencia*/
+
+/* Fin quinta sección de navegación */
+
+.text74 {
+    position: absolute; 
+    top: 60px;
+    left: 100px;
+}
+.text75 {
+    position: absolute; 
+    top: 186px;
+    left: 100px;
+    font-size: 15px;
+    color: #ffffff;
+    line-height: 7mm;
+}
+.text76 {
+    position: absolute; 
+    top: 60px;
+    left: 400px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1cm;
+}
+.text77 {
+    position: absolute; 
+    top: 60px;
+    left: 720px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1cm;
+}
+.text78 {
+    position: absolute; 
+    top: 250px;
+    left: 400px;
+}
+.text79 {
+    position: absolute; 
+    top: 280px;
+    left: 400px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1cm;
+}
+.text80 {
+    position: absolute; 
+    top: 290px;
+    left: 582px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 6mm;
+}
+.text82 {
+    position: absolute; 
+    top: 350px;
+    left: 582px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 6mm;
+}
+.text81 {
+    position: absolute; 
+    top: 280px;
+    left: 800px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1cm;
+}
+.text83 {
+    position: absolute; 
+    top: 0px;
+    left: 970px;
+}
+.text84 {
+    position: absolute; 
+    top: 60px;
+    left: 990px;
+    font-size: 16px;
+    color: #44484c;
+    text-transform: uppercase;
+}
+.text85 {
+    position: absolute; 
+    top: 100px;
+    left: 1050px;
+}
+.text86 {
+    position: absolute; 
+    top: 242px;
+    left: 1000px;
+}
+.text87 {
+    position: absolute; 
+    top: 311px;
+    left: 1000px;
+}
+
+/* Fin pie de página*/
   }
